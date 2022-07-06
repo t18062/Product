@@ -4,3 +4,7 @@ README fileの参照お願いします
 
 http://jsbin.com/　
 上記のurlから実行できます。
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/t18062/Product/main)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/t18062/Product/main
