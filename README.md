@@ -7,3 +7,5 @@ http://jsbin.com/　　
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/t18062/Product/main)
 
+マスターブランチ上にある[sample.pickle]をダウンロードしてください。
+各学習モデルで使用するデータにsample.pickleのデータを与えてください。
